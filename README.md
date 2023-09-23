@@ -1,2 +1,2 @@
 # airbnb-clone-react
-airbnb-clone-react
+static airbnb-clone-react 
